@@ -1,0 +1,2 @@
+# LAdominio
+Script Termux 
